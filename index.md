@@ -14,7 +14,7 @@ var myVar = "Hello, world!";
 ```
 
 ### Making a task list
--[x] Have breakfast
--[x] Animals in our Lives - Animal Advocate Project
--[] Have lunch
--[] Moving forward in the data science course
+- [x] Have breakfast
+- [x] Animals in our Lives - Animal Advocate Project
+- [ ] Have lunch
+- [ ] Moving forward in the data science course
